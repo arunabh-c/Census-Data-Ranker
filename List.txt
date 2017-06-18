@@ -1,0 +1,9 @@
+B19051_001E, Median Income
+B23006_023E, Bachelors Degree Holders in Labor Force
+B01003_001E, Total Population
+B25001_001E, Housing Units
+B25003_003E, Renter Tenure
+B25077_001E, Median Value of Owner Ocuupied house
+B25064_001E, Median Rent
+B15002_033E, Female Master's Degree
+B23025_004E, Labor Force Employed
